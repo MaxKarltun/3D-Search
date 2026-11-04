@@ -1,8 +1,8 @@
-# Filter Search
+# 3D Search
 
 ![Preview of the property search app](frontend/public/property-search-preview.png)
 
-A property-listing search application built with React, Vite, and Express. It searches sample listing data stored in a JSON file.
+A dimensional property-search experience built with React, Vite, and Express. The interface uses lightweight CSS 3D styling and searches sample listing data stored in a JSON file.
 
 ## Project structure
 
